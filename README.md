@@ -15,7 +15,7 @@ Expense Tracker is a mobile application developed using Dart and Flutter to help
 ## Screenshots
 
 Here are some screenshots of the Expense Tracker app:
-![1](https://github.com/BhavikPindoriya/expense_tracker/assets/154498968/4c885be7-3c21-47ec-81ed-aeb8db953449 =250x )
+![CHEESE!](c:\Users\Bhavik\Desktop\New folder\1.png)
 
 ## Usage
 
